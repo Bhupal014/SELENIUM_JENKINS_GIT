@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8181" started-at="2020-01-02T00:45:57Z" finished-at="2020-01-02T00:46:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8181" started-at="2020-01-02T00:45:57Z" finished-at="2020-01-02T00:46:05Z">
+      <class name="fxg_Rest_Assured_API.FXG_Rest_Assured_API_GET_Request_TC001">
+        <test-method status="PASS" signature="getWeatherCondition()[pri:0, instance:fxg_Rest_Assured_API.FXG_Rest_Assured_API_GET_Request_TC001@1832929]" name="getWeatherCondition" duration-ms="8115" started-at="2020-01-02T00:45:57Z" finished-at="2020-01-02T00:46:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWeatherCondition -->
+      </class> <!-- fxg_Rest_Assured_API.FXG_Rest_Assured_API_GET_Request_TC001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
